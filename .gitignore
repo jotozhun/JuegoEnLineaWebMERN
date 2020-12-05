@@ -12,7 +12,7 @@
 
 # production
 /backend/build
-/juego-en-linea-frontend/
+/juego-en-linea-frontend/build
 
 # misc
 .DS_Store
