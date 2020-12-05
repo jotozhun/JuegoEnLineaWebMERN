@@ -3,7 +3,7 @@
 # dependencies
 /backend/node_modules
 /juego-en-linea-frontend/node_modules
-
+/juego-en-linea-frontend/.eslintcache
 /.pnp
 .pnp.js
 
